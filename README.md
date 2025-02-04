@@ -4,5 +4,5 @@ Bienvenido a mi sitio en GitHub Pages. Aquí encontrarás información sobre dis
 
 ## 📚 Contenido
 
-- [OpenVC](OpenVC.md)
+- [OpenVC](OpenCV.md)
 - [Puppeteer](Puppeteer.md)
