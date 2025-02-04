@@ -21,3 +21,4 @@ async function main() {
 
 main ();
 ```
+[Ver código completo en basic_template.js](./puppeteer/basic_template.js)
