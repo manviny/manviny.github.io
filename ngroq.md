@@ -2,6 +2,10 @@
 
 ---
 
+
+
+[![Título del video](https://img.youtube.com/vi/Vt4PDUXB_fg/0.jpg)](https://www.youtube.com/watch?v=Vt4PDUXB_fg)
+
 ### 1. **frp (Fast Reverse Proxy)**  
    - **Descripción**: frp es una herramienta de código abierto que permite exponer servicios locales a través de un servidor intermedio (puedes usar uno propio o uno público).
    - **Características**:
