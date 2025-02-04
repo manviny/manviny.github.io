@@ -18,6 +18,23 @@
   - ```python script.py ```                     # detecta objetos en imagen
   - ```python webcam.py ```        # detecta objetos por camara
 
+
+## Índice
+- [Entorno](#entorno)
+- [Pasos para el Entrenamiento y Predicción](#pasos-para-el-entrenamiento-y-predicci%C3%B3n-de-im%C3%A1genes)
+- [YOLOv8](#yolo8)
+- [Label Studio](#label-studio)
+- [Dependencias](#dependencias)
+- [Uso](#uso)
+- [Dividir Imágenes en Fragmentos](#dividir-una-imagen-en-chunck)
+- [Entrenamiento](#entrenar)
+- [Predicción](#predecir)
+- [Datasets](#datasets)
+- [AutoLabel Recursos Web](#autolable-recursos-web)
+- [Docker en AWS](#docker-on-aws)
+- [NGROQ](#ngroq)
+
+
 ## Yolo8
 ### Train Yolov8 object detection on a custom dataset
 [![Integrating Ultralytics YOLOv8 with Label Studio](https://img.youtube.com/vi/m9fH9OWn8YM/0.jpg)](https://www.youtube.com/watch?v=m9fH9OWn8YM)
