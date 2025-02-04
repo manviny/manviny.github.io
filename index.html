@@ -1,1 +1,19 @@
-## Hi
+<!DOCTYPE html>
+<html lang="es">
+<head>
+  <meta charset="UTF-8">
+  <title>Markdown a HTML</title>
+  <script src="https://cdn.jsdelivr.net/npm/marked/marked.min.js"></script>
+</head>
+<body>
+  <div id="content"></div>
+  <script>
+    const markdown = "
+      # Hola, mundo\n
+      Este es un **ejemplo** de Markdown a HTML
+    .";
+    const html = marked.parse(markdown);
+    document.getElementById("content").innerHTML = html;
+  </script>
+</body>
+</html>
