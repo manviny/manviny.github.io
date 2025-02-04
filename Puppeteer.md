@@ -33,7 +33,7 @@ async function main() {
 
 main ();
 ```
-[Ver código completo en basic_template.js](./puppeteer/basic_template.js)
+
 
 
 ### Crear JSON
@@ -69,9 +69,10 @@ console. log (results);
     });
 ```
 
+### Visitar varias páginas 
 
 
 
 
-
+[Ver código completo en craigslist.js](./puppeteer/craigslist.js)
 
