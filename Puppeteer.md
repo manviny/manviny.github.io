@@ -1,4 +1,6 @@
 ## Puppeteer
+
+### Inicializar proyecto
 ```bash
 mkdir project
 cd project
