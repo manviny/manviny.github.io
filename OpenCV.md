@@ -37,7 +37,11 @@
 
 ## Yolo8
 ### Train Yolov8 object detection on a custom dataset
+
+[![Integrating Ultralytics YOLOv8 with Label Studio](https://img.youtube.com/vi/etjkjZoG2F0/0.jpg)](https://www.youtube.com/watch?v=etjkjZoG2F0)
+
 [![Integrating Ultralytics YOLOv8 with Label Studio](https://img.youtube.com/vi/m9fH9OWn8YM/0.jpg)](https://www.youtube.com/watch?v=m9fH9OWn8YM)
+
 
 ### Learn Computer Vision in 30 Days
 [![Integrating Ultralytics YOLOv8 with Label Studio](https://img.youtube.com/vi/HiTw5KFw7ic/0.jpg)](https://www.youtube.com/watch?v=HiTw5KFw7ic)
