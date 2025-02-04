@@ -74,5 +74,5 @@ console. log (results);
 
 
 
-[Ver código completo en craigslist.js](./puppeteer/craigslist.js)
+
 
