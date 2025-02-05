@@ -34,6 +34,11 @@
 - [Docker en AWS](#docker-on-aws)
 - [NGROQ](#ngroq)
 
+## Proyectos
+- [OpenCV](OpenCV/Basket_Ball_Shot_Predictor_Recording/)
+
+
+
 
 ## Yolo8
 ### Train Yolov8 object detection on a custom dataset
