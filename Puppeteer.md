@@ -38,13 +38,38 @@ main ();
 
 
 <details>
-  <summary>Vere código Python</summary>
+  <summary>Ver 0 código Python</summary>
 ```python
   def hello_world():
       print("¡Hola, mundo!")
 ```
 </details>
 
+
+
+
+<details>
+  <summary>Ver 1 código Python</summary>
+
+  <pre><code class="language-python">
+  def hello_world():
+      print("¡Hola, mundo!")
+  </code></pre>
+
+</details>
+
+
+
+
+<details>
+  <summary>Ver 2 código Python</summary>
+
+  {% highlight python %}
+  def hello_world():
+      print("¡Hola, mundo!")
+  {% endhighlight %}
+
+</details>
 
 ### Crear JSON
 ```js
