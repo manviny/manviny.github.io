@@ -38,21 +38,15 @@ main ();
 <details>
   <summary>Ver código Python</summary>
 
-  ```python
+
   def hello_world():
       print("¡Hola, mundo!")
 </details>
-```
 
 
 
-<details>
-  <summary>Vere código Python</summary>
-  ```python
-  def hello_world():
-      print("¡Hola, mundo!")
-  ```
-</details>
+
+
 
 
 ### Crear JSON
