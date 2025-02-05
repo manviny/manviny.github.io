@@ -35,7 +35,7 @@
 - [NGROQ](#ngroq)
 
 ## Proyectos
-- [OpenCV](OpenCV/Basket_Ball_Shot_Predictor_Recording/)
+- [OpenCV](OpenCV/Basket_Ball_Shot_Predictor_Recording/README.md)
 
 
 
