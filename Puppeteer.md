@@ -42,6 +42,7 @@ main ();
   def hello_world():
       print("¡Hola, mundo!")
 </details>
+```
 
 
 ### Crear JSON
