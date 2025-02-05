@@ -1,5 +1,5 @@
-# markdown: GFM
-# permalink: pretty
+markdown: GFM
+permalink: pretty
 
 # _config.yml
-theme: jekyll-theme-minimal
+# theme: jekyll-theme-minimal
