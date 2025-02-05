@@ -45,6 +45,16 @@ main ();
 ```
 
 
+
+<details>
+  <summary>Vere código Python</summary>
+  ```python
+  def hello_world():
+      print("¡Hola, mundo!")
+  ```
+</details>
+
+
 ### Crear JSON
 ```js
 // 1. usamos .map pq queremos que devuelva valores
