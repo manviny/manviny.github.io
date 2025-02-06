@@ -6,3 +6,4 @@
 - [Hello AI](https://github.com/dusty-nv/jetson-inference/blob/master/docs/jetpack-setup-2.md)
 - [Pose](https://github.com/NVIDIA-AI-IOT/trt_pose)
 - [Setup NVIDIA Jetson with Ultralytics YOLOv8](https://www.youtube.com/watch?v=mUybgOlSxxA)
+- [Setup a Jetson Nano 2GB for computer vision with Roboflow](https://www.youtube.com/watch?v=sVyFHFUxAz0)
