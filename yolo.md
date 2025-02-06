@@ -1,0 +1,1 @@
+- [Ultralytics YOLO11 lista](https://www.youtube.com/watch?v=-JXwa-WlkU8&list=PL1FZnkj4ad1P9gulU2Ud6y-1m1fKXTPGW)

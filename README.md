@@ -4,7 +4,9 @@ Bienvenido a mi sitio en GitHub Pages. Aquí encontrarás información sobre dis
 
 ## 📚 Contenido
 
+- [Enlaces IA](IA.md)
 - [OpenCV](OpenCV.md)
-- [Jetson Nano](jetson.md)
+	- [YOLO](yolo.md)
+	- [Jetson Nano](jetson.md)
 - [Puppeteer](Puppeteer.md)
 - [Ngroq](ngroq.md)
