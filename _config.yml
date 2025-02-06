@@ -1,18 +1,18 @@
 markdown: GFM
-# permalink: pretty
+permalink: pretty
 
 # _config.yml
 # theme: jekyll-theme-minimal
 
 
 
-title: OpenCV Documentation
-description: Documentación del proyecto OpenCV.
-baseurl: "" # Si tu sitio está en la raíz, déjalo vacío.
-url: "https://manviny.github.io/OpenCV" # URL de tu sitio.
+# title: OpenCV Documentation
+# description: Documentación del proyecto OpenCV.
+# baseurl: "" # Si tu sitio está en la raíz, déjalo vacío.
+# url: "https://manviny.github.io/OpenCV" # URL de tu sitio.
 
-# Configuración del tema GitBook
-theme: jekyll-gitbook
-gitbook:
-  search: true
-  download: ["pdf", "epub"]
+# # Configuración del tema GitBook
+# theme: jekyll-gitbook
+# gitbook:
+#   search: true
+#   download: ["pdf", "epub"]
