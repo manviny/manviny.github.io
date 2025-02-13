@@ -3,6 +3,7 @@
 - [RoboFlow youtube Channel](https://www.youtube.com/@Roboflow/videos)
 - [RoboFlow Universe](https://universe.roboflow.com)
 
-
+<img src="images/train.png" alt="" width="480">
+<img src="images/predict.png" alt="" width="480">
 ![](images/train.png)
 ![](images/predict.png)
