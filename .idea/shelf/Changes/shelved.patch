@@ -1,0 +1,19 @@
+Index: jetson.md
+IDEA additional info:
+Subsystem: com.intellij.openapi.diff.impl.patch.BaseRevisionTextPatchEP
+<+>\n## Enlaces de interés a Jetson nano\n\n- [Intro](https://developer.nvidia.com/embedded/learn/get-started-jetson-nano-devkit#intro)\n- [Community Projects](https://developer.nvidia.com/embedded/community/jetson-projects)\n- [Hello AI](https://github.com/dusty-nv/jetson-inference/blob/master/docs/jetpack-setup-2.md)\n- [Pose](https://github.com/NVIDIA-AI-IOT/trt_pose)\n- [Setup NVIDIA Jetson with Ultralytics YOLOv8](https://www.youtube.com/watch?v=mUybgOlSxxA)\n- [Setup a Jetson Nano 2GB for computer vision with Roboflow](https://www.youtube.com/watch?v=sVyFHFUxAz0)\n- [Jetson nano 3D cases for printing](https://www.yeggi.com/q/jetson+nano+case/)
+Subsystem: com.intellij.openapi.diff.impl.patch.CharsetEP
+<+>UTF-8
+===================================================================
+diff --git a/jetson.md b/jetson.md
+--- a/jetson.md	(revision 71724dca81434e63015047a0b00e49cad782d82a)
++++ b/jetson.md	(date 1739546881132)
+@@ -7,4 +7,6 @@
+ - [Pose](https://github.com/NVIDIA-AI-IOT/trt_pose)
+ - [Setup NVIDIA Jetson with Ultralytics YOLOv8](https://www.youtube.com/watch?v=mUybgOlSxxA)
+ - [Setup a Jetson Nano 2GB for computer vision with Roboflow](https://www.youtube.com/watch?v=sVyFHFUxAz0)
+-- [Jetson nano 3D cases for printing](https://www.yeggi.com/q/jetson+nano+case/)
+\ No newline at end of file
++- [Jetson nano 3D cases for printing](https://www.yeggi.com/q/jetson+nano+case/)
++- [![Integrating Ultralytics YOLOv8 with Label Studio](https://img.youtube.com/vi/PLsjK_a5MFguIUJJ1GPt1I2eN6cihKg2kG/0.jpg)](https://www.youtube.com/watch?v=PLsjK_a5MFguIUJJ1GPt1I2eN6cihKg2kG)
++- [Jetson nano 3D cases for printing](https://www.youtube.com/watch?v=Gzb4MyjrjMw&list=PLsjK_a5MFguIUJJ1GPt1I2eN6cihKg2kG&index=2)
