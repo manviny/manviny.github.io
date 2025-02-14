@@ -10,4 +10,5 @@ Bienvenido a mi sitio en GitHub Pages. Aquí encontrarás información sobre dis
 	- [YOLO](yolo.md)
 	- [Jetson Nano](jetson.md)
 - [Puppeteer](Puppeteer.md)
+- [Electron](Electron_js.md)
 - [Ngroq](ngroq.md)
