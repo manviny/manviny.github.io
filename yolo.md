@@ -2,6 +2,7 @@
 - [Ultralytics YOLO11 lista](https://www.youtube.com/watch?v=-JXwa-WlkU8&list=PL1FZnkj4ad1P9gulU2Ud6y-1m1fKXTPGW)
 - [RoboFlow youtube Channel](https://www.youtube.com/@Roboflow/videos)
 - [RoboFlow Universe](https://universe.roboflow.com)
+- [DeepSort](https://www.ikomia.ai/blog/deep-sort-object-tracking-guide)
 
 ![](images/train.png)
 ![](images/predict.png)

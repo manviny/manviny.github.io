@@ -24,6 +24,7 @@
 - [Pasos para el Entrenamiento y Predicción](#pasos-para-el-entrenamiento-y-predicci%C3%B3n-de-im%C3%A1genes)
 - [YOLOv8](#yolo8)
 - [Label Studio](#label-studio)
+- [DeepSort](https://www.ikomia.ai/blog/deep-sort-object-tracking-guide)
 - [Dependencias](#dependencias)
 - [Uso](#uso)
 - [Dividir Imágenes en Fragmentos](#dividir-una-imagen-en-chunck)
