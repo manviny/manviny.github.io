@@ -11,7 +11,18 @@
 - [![Hello world course](https://img.youtube.com/vi/PLsjK_a5MFguIUJJ1GPt1I2eN6cihKg2kG/0.jpg)](https://www.youtube.com/watch?v=PLsjK_a5MFguIUJJ1GPt1I2eN6cihKg2kG)
 - [Hello World](https://www.youtube.com/watch?v=Gzb4MyjrjMw&list=PLsjK_a5MFguIUJJ1GPt1I2eN6cihKg2kG&index=2)
 
-
-- [Ultralitycs on Jetson Nano](https://www.youtube.com/watch?v=pAEkHsNkul0)
+## Preparar software para visión en Jetson Nano
+### Instalar Pytorch en Jetson Nano
+- [Ultralitycs + GPU on Jetson Nano](https://www.youtube.com/watch?v=ZXbOV83EXdQ)
+https://www.youtube.com/watch?v=ZXbOV83EXdQ
+### Ultralitycs + GPU
+- [Ultralitycs + GPU ](https://www.youtube.com/watch?v=pAEkHsNkul0)
 https://www.youtube.com/watch?v=pAEkHsNkul0
 
+### Planificador de viajes
+- [Ultralitycs + GPU ](https://www.youtube.com/watch?v=F-KHlSPNdSg)
+https://www.youtube.com/watch?v=F-KHlSPNdSg
+
+
+### Object tracking
+https://www.youtube.com/watch?v=joAZEUbZZy8
