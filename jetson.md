@@ -10,3 +10,8 @@
 - [Jetson nano 3D cases for printing](https://www.yeggi.com/q/jetson+nano+case/)
 - [![Hello world course](https://img.youtube.com/vi/PLsjK_a5MFguIUJJ1GPt1I2eN6cihKg2kG/0.jpg)](https://www.youtube.com/watch?v=PLsjK_a5MFguIUJJ1GPt1I2eN6cihKg2kG)
 - [Hello World](https://www.youtube.com/watch?v=Gzb4MyjrjMw&list=PLsjK_a5MFguIUJJ1GPt1I2eN6cihKg2kG&index=2)
+
+
+- [Ultralitycs on Jetson Nano](https://www.youtube.com/watch?v=pAEkHsNkul0)
+https://www.youtube.com/watch?v=pAEkHsNkul0
+
