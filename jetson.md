@@ -13,16 +13,19 @@
 
 ## Preparar software para visión en Jetson Nano
 ### Instalar Pytorch en Jetson Nano
-- [Ultralitycs + GPU on Jetson Nano](https://www.youtube.com/watch?v=ZXbOV83EXdQ)
-https://www.youtube.com/watch?v=ZXbOV83EXdQ
+
+
+
+- [![Ultralitycs + GPU on Jetson Nano](https://img.youtube.com/vi/ZXbOV83EXdQ/0.jpg)](
+https://www.youtube.com/watch?v=ZXbOV83EXdQ)
 ### Ultralitycs + GPU
-- [Ultralitycs + GPU ](https://www.youtube.com/watch?v=pAEkHsNkul0)
-https://www.youtube.com/watch?v=pAEkHsNkul0
+- [![Ultralitycs + GPU ](https://img.youtube.com/vi/pAEkHsNkul0/0.jpg)](
+https://www.youtube.com/watch?v=pAEkHsNkul0)
 
 ### Planificador de viajes
-- [Ultralitycs + GPU ](https://www.youtube.com/watch?v=F-KHlSPNdSg)
-https://www.youtube.com/watch?v=F-KHlSPNdSg
+- [![Ultralitycs + GPU ](https://img.youtube.com/vi/F-KHlSPNdSg/0.jpg)](
+https://www.youtube.com/watch?v=F-KHlSPNdSg)
 
 
 ### Object tracking
-https://www.youtube.com/watch?v=joAZEUbZZy8
+[![Object tracking](https://img.youtube.com/vi/joAZEUbZZy8/0.jpg)](https://www.youtube.com/watch?v=joAZEUbZZy8)
