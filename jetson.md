@@ -52,6 +52,12 @@ python3.10 setup.py bdist_wheel && \
 pip3 install dist/*.whl
 
 
+# Yolo
+python3 -m venv yolo && \
+source yolo/bin/activate && \
+pip install --upgrade pip && \
+pip install ultralytics
+
 ```
 - [![Ultralitycs + GPU ](https://img.youtube.com/vi/pAEkHsNkul0/0.jpg)](
 https://www.youtube.com/watch?v=pAEkHsNkul0)
