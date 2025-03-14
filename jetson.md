@@ -1,6 +1,9 @@
 
 ## Enlaces de interés a Jetson nano
 
+- [Ultralytics YOLO11 en NVIDIA Jetson utilizando DeepStream SDK y TensorRT](https://docs.ultralytics.com/es/guides/deepstream-nvidia-jetson/)
+
+
 - [Intro](https://developer.nvidia.com/embedded/learn/get-started-jetson-nano-devkit#intro)
 - [Community Projects](https://developer.nvidia.com/embedded/community/jetson-projects)
 - [Hello AI](https://github.com/dusty-nv/jetson-inference/blob/master/docs/jetpack-setup-2.md)
