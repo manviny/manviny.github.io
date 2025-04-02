@@ -1,3 +1,4 @@
+```jsx
 // App.jsx
 import React from 'react';
 import { atom, useAtom, useAtomValue, useSetAtom } from 'jotai';
@@ -41,3 +42,4 @@ const App = () => {
 };
 
 export default App;
+```
