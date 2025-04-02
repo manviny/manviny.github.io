@@ -19,4 +19,5 @@ Bienvenido a mi sitio en GitHub Pages. Aquí encontrarás información sobre dis
 - [Ejabberd](ejabberd.md)
 - [APIS](apis.md)
 - [Docker](docker.md)
+- [Jotai](jotai.md)
 - [otros](otros.md)
