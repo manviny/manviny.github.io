@@ -1,4 +1,4 @@
-index,Brand,Name,Sticker,Year,KM,Fuel,CV,Transmission,One_owner,Location,Length,Width,Height,Weight,Trunk,Tank,Vmax,0to100,Consumption,Emissions,Keys_num,Extras_num,Price
+index,marca,nombre,pegatina,anyo,km,combustible,cv,transmision,unico_dueno,ubicacion,longitud,anchura,altura,peso,maletero,deposito,velocidad_maxima,0a100,consumo,emisiones,numero_llaves,numero_extras,precio
 0,Opel,Opel Corsa,C,2022,47707,Diésel,102,MANUAL,True,Almería,4.06,1.77,1.43,1165,,-,188,10.2,4.1,107,1,5,15700
 1,Peugeot,Peugeot Rifter,C,2019,57194,Diésel,130,AUTO,True,Almería,4.4,1.85,1.82,1430,1355,-,179,4.3,114.0,,2,5,24900
 2,Renault,Renault Kadjar,C,2017,66428,Diésel,110,MANUAL,False,Barcelona,4.45,1.84,1.61,1380,1478,-,182,11.9,3.8,99,2,5,17800
