@@ -8,8 +8,9 @@
    3. conda activate llms
 
 #### Ejecutar jupyter
-1. [conectar con ollama](https://manviny.github.io/llms/resume_webs.ipynb)
-2. jupyter lab
+1. [descargar cuaderno de jupyter](https://manviny.github.io/llms/resume_webs.ipynb)
+2. conectar con ollama para usarlo en el cuaderno
+3. jupyter lab
 
 ####
 - resumir webs
