@@ -3,14 +3,15 @@
 #### Instalar anaconda
 1. Instalar Anaconda
 2. Crear environment
-   1. conda env create -f environment.yml
-   2. conda activate llms
+   1. descargar [environment.yml](https://manviny.github.io/llms/environment.yml)
+   2. conda env create -f environment.yml
+   3. conda activate llms
 
 #### Ejecutar jupyter
-1. jupyter lab
+1. [conectar con ollama](https://manviny.github.io/llms/resume_webs.ipynb)
+2. jupyter lab
 
-
-
+####
 - resumir webs
 - hugging face 66 68
 
