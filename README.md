@@ -6,6 +6,7 @@ Bienvenido a mi sitio en GitHub Pages. Aquí encontrarás información sobre dis
 
 ### IA
 - [Enlaces IA](IA.md)
+- [LLMs](llm.md)
 - [OpenCV](OpenCV.md)
 	- [Labeling](labeling.md)
 	- [YOLO](yolo.md)
