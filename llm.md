@@ -10,7 +10,7 @@
 #### Ejecutar jupyter
 1. [descargar cuaderno de jupyter](https://manviny.github.io/llms/resume_webs.ipynb)
 2. conectar con ollama para usarlo en el cuaderno
-3. jupyter lab
+3. desde el terminal ejecutar:  jupyter lab   (esto nos abre la web de jupyter donde cargaremos el cuaderno que hemos descargado)
 
 ####
 - resumir webs
